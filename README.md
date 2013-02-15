@@ -1,6 +1,7 @@
 PHPComputer
 ===========
 
+http://riccio.dimkos.ru/computer.html
 cx1  - copy 1 to x
 px   - print x
 ix   - increment x
